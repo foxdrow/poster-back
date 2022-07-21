@@ -1,4 +1,4 @@
-import { createTheme } from "@material-ui/core"
+import { createTheme } from "@mui/material/styles"
 
 const green = "#99D898"
 const darkGreen = "#708670"

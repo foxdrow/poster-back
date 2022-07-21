@@ -1,5 +1,6 @@
 import React from "react"
-import { Grid, Typography, makeStyles, IconButton } from "@material-ui/core"
+import { Grid, Typography, IconButton } from "@mui/material"
+import { makeStyles } from "@mui/styles"
 import { Link } from "gatsby"
 
 import facebook from "../../images/facebook.svg"

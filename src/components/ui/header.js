@@ -8,14 +8,14 @@ import {
   Tabs,
   Tab,
   IconButton,
-  makeStyles,
   useMediaQuery,
   Hidden,
   SwipeableDrawer,
   List,
   ListItem,
   ListItemText,
-} from "@material-ui/core"
+} from "@mui/material"
+import { makeStyles } from "@mui/styles"
 
 const useStyles = makeStyles(theme => ({
   colorIndicator: {
